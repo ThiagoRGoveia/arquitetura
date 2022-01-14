@@ -1,3 +1,6 @@
-## Link slides do trabalho
+## Apresentação
 
-https://docs.google.com/presentation/d/1PSU1p5UYW3iWTq-lR065RWIcF-v9btC9Gvvjhx5DHOY/edit?usp=sharing
+[Slides](Slides.pdf)
+
+## Video
+[Apresentação](https://www.youtube.com/watch?v=ZnhNrI2DxiU)
